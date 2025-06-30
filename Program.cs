@@ -112,6 +112,7 @@ builder.Services.AddCors(options =>
 builder.Services.AddScoped<AuthService>();
 builder.Services.AddSingleton<BlobService>();
 builder.Services.AddSingleton<EventHubService>();
+builder.Services.AddApplicationInsightsTelemetry();
 
 
 var app = builder.Build();

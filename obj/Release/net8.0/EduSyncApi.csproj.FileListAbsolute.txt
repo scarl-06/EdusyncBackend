@@ -286,3 +286,16 @@ C:\assigment\EduSyncApiSolution\EduSync Back\EduSyncApi\obj\Release\net8.0\refin
 C:\assigment\EduSyncApiSolution\EduSync Back\EduSyncApi\obj\Release\net8.0\EduSyncApi.pdb
 C:\assigment\EduSyncApiSolution\EduSync Back\EduSyncApi\obj\Release\net8.0\EduSyncApi.genruntimeconfig.cache
 C:\assigment\EduSyncApiSolution\EduSync Back\EduSyncApi\obj\Release\net8.0\ref\EduSyncApi.dll
+C:\assigment\EduSyncApiSolution\EduSync Back\EduSyncApi\bin\Release\net8.0\Azure.Core.Amqp.dll
+C:\assigment\EduSyncApiSolution\EduSync Back\EduSyncApi\bin\Release\net8.0\Azure.Messaging.EventHubs.dll
+C:\assigment\EduSyncApiSolution\EduSync Back\EduSyncApi\bin\Release\net8.0\Microsoft.Azure.Amqp.dll
+C:\assigment\EduSyncApiSolution\EduSync Back\EduSyncApi\bin\Release\net8.0\Microsoft.ApplicationInsights.dll
+C:\assigment\EduSyncApiSolution\EduSync Back\EduSyncApi\bin\Release\net8.0\Microsoft.ApplicationInsights.AspNetCore.dll
+C:\assigment\EduSyncApiSolution\EduSync Back\EduSyncApi\bin\Release\net8.0\Microsoft.AI.DependencyCollector.dll
+C:\assigment\EduSyncApiSolution\EduSync Back\EduSyncApi\bin\Release\net8.0\Microsoft.AI.EventCounterCollector.dll
+C:\assigment\EduSyncApiSolution\EduSync Back\EduSyncApi\bin\Release\net8.0\Microsoft.AI.PerfCounterCollector.dll
+C:\assigment\EduSyncApiSolution\EduSync Back\EduSyncApi\bin\Release\net8.0\Microsoft.AI.WindowsServer.dll
+C:\assigment\EduSyncApiSolution\EduSync Back\EduSyncApi\bin\Release\net8.0\Microsoft.AI.ServerTelemetryChannel.dll
+C:\assigment\EduSyncApiSolution\EduSync Back\EduSyncApi\bin\Release\net8.0\Microsoft.Extensions.Logging.ApplicationInsights.dll
+C:\assigment\EduSyncApiSolution\EduSync Back\EduSyncApi\bin\Release\net8.0\System.Diagnostics.PerformanceCounter.dll
+C:\assigment\EduSyncApiSolution\EduSync Back\EduSyncApi\bin\Release\net8.0\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll

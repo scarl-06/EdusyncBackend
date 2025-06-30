@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EduSyncApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b1dffd6e917f50066583383ba56d9e376ee0101b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0e28d230a92ae01467171becf55083e6526b3cc6")]
 [assembly: System.Reflection.AssemblyProductAttribute("EduSyncApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EduSyncApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
