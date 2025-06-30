@@ -13,10 +13,11 @@ namespace EduSyncAPI.Controllers
     public class ResultsController : ControllerBase
     {
         private readonly AppDbContext _context;
-
-        public ResultsController(AppDbContext context)
+        private readonly EventHubService _eventHubService;
+        public ResultsController(AppDbContext context, EventHubService eventHubService)
         {
             _context = context;
+            _eventHubService = eventHubService;
         }
 
         // GET: api/Results
@@ -78,7 +79,17 @@ namespace EduSyncAPI.Controllers
             };
 
             _context.ResultModel.Add(result);
+            
             await _context.SaveChangesAsync();
+            await _eventHubService.SendAsync(new
+            {
+                ResultId = result.ResultId,
+                AssessmentId = result.AssessmentId,
+                UserId = result.UserId,
+                Score = result.Score,
+                AttemptDate = result.AttemptDate
+            });
+
 
             var resultDto = new ResultReadDTO
             {

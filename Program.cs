@@ -111,6 +111,8 @@ builder.Services.AddCors(options =>
 // Add AuthService
 builder.Services.AddScoped<AuthService>();
 builder.Services.AddSingleton<BlobService>();
+builder.Services.AddSingleton<EventHubService>();
+
 
 var app = builder.Build();
 

@@ -570,3 +570,6 @@ C:\assigment\EduSyncApiSolution\EduSync Back\EduSyncApi\obj\Debug\net8.0\refint\
 C:\assigment\EduSyncApiSolution\EduSync Back\EduSyncApi\obj\Debug\net8.0\EduSyncApi.pdb
 C:\assigment\EduSyncApiSolution\EduSync Back\EduSyncApi\obj\Debug\net8.0\EduSyncApi.genruntimeconfig.cache
 C:\assigment\EduSyncApiSolution\EduSync Back\EduSyncApi\obj\Debug\net8.0\ref\EduSyncApi.dll
+C:\assigment\EduSyncApiSolution\EduSync Back\EduSyncApi\bin\Debug\net8.0\Azure.Core.Amqp.dll
+C:\assigment\EduSyncApiSolution\EduSync Back\EduSyncApi\bin\Debug\net8.0\Azure.Messaging.EventHubs.dll
+C:\assigment\EduSyncApiSolution\EduSync Back\EduSyncApi\bin\Debug\net8.0\Microsoft.Azure.Amqp.dll
