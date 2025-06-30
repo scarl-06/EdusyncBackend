@@ -292,6 +292,8 @@ C:\assigment\EduSyncApiSolution\EduSync Back\EduSyncApi\bin\Debug\net8.0\EduSync
 C:\assigment\EduSyncApiSolution\EduSync Back\EduSyncApi\bin\Debug\net8.0\EduSyncApi.pdb
 C:\assigment\EduSyncApiSolution\EduSync Back\EduSyncApi\bin\Debug\net8.0\Azure.Core.dll
 C:\assigment\EduSyncApiSolution\EduSync Back\EduSyncApi\bin\Debug\net8.0\Azure.Identity.dll
+C:\assigment\EduSyncApiSolution\EduSync Back\EduSyncApi\bin\Debug\net8.0\Azure.Storage.Blobs.dll
+C:\assigment\EduSyncApiSolution\EduSync Back\EduSyncApi\bin\Debug\net8.0\Azure.Storage.Common.dll
 C:\assigment\EduSyncApiSolution\EduSync Back\EduSyncApi\bin\Debug\net8.0\Humanizer.dll
 C:\assigment\EduSyncApiSolution\EduSync Back\EduSyncApi\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 C:\assigment\EduSyncApiSolution\EduSync Back\EduSyncApi\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
@@ -374,6 +376,7 @@ C:\assigment\EduSyncApiSolution\EduSync Back\EduSyncApi\bin\Debug\net8.0\System.
 C:\assigment\EduSyncApiSolution\EduSync Back\EduSyncApi\bin\Debug\net8.0\System.Drawing.Common.dll
 C:\assigment\EduSyncApiSolution\EduSync Back\EduSyncApi\bin\Debug\net8.0\System.Formats.Asn1.dll
 C:\assigment\EduSyncApiSolution\EduSync Back\EduSyncApi\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\assigment\EduSyncApiSolution\EduSync Back\EduSyncApi\bin\Debug\net8.0\System.IO.Hashing.dll
 C:\assigment\EduSyncApiSolution\EduSync Back\EduSyncApi\bin\Debug\net8.0\System.IO.Pipelines.dll
 C:\assigment\EduSyncApiSolution\EduSync Back\EduSyncApi\bin\Debug\net8.0\System.Memory.Data.dll
 C:\assigment\EduSyncApiSolution\EduSync Back\EduSyncApi\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
@@ -554,6 +557,7 @@ C:\assigment\EduSyncApiSolution\EduSync Back\EduSyncApi\obj\Debug\net8.0\EduSync
 C:\assigment\EduSyncApiSolution\EduSync Back\EduSyncApi\obj\Debug\net8.0\EduSyncApi.csproj.CoreCompileInputs.cache
 C:\assigment\EduSyncApiSolution\EduSync Back\EduSyncApi\obj\Debug\net8.0\EduSyncApi.MvcApplicationPartsAssemblyInfo.cs
 C:\assigment\EduSyncApiSolution\EduSync Back\EduSyncApi\obj\Debug\net8.0\EduSyncApi.MvcApplicationPartsAssemblyInfo.cache
+C:\assigment\EduSyncApiSolution\EduSync Back\EduSyncApi\obj\Debug\net8.0\EduSyncApi.sourcelink.json
 C:\assigment\EduSyncApiSolution\EduSync Back\EduSyncApi\obj\Debug\net8.0\scopedcss\bundle\EduSyncApi.styles.css
 C:\assigment\EduSyncApiSolution\EduSync Back\EduSyncApi\obj\Debug\net8.0\staticwebassets.build.json
 C:\assigment\EduSyncApiSolution\EduSync Back\EduSyncApi\obj\Debug\net8.0\staticwebassets.build.json.cache
@@ -566,7 +570,3 @@ C:\assigment\EduSyncApiSolution\EduSync Back\EduSyncApi\obj\Debug\net8.0\refint\
 C:\assigment\EduSyncApiSolution\EduSync Back\EduSyncApi\obj\Debug\net8.0\EduSyncApi.pdb
 C:\assigment\EduSyncApiSolution\EduSync Back\EduSyncApi\obj\Debug\net8.0\EduSyncApi.genruntimeconfig.cache
 C:\assigment\EduSyncApiSolution\EduSync Back\EduSyncApi\obj\Debug\net8.0\ref\EduSyncApi.dll
-C:\assigment\EduSyncApiSolution\EduSync Back\EduSyncApi\bin\Debug\net8.0\Azure.Storage.Blobs.dll
-C:\assigment\EduSyncApiSolution\EduSync Back\EduSyncApi\bin\Debug\net8.0\Azure.Storage.Common.dll
-C:\assigment\EduSyncApiSolution\EduSync Back\EduSyncApi\bin\Debug\net8.0\System.IO.Hashing.dll
-C:\assigment\EduSyncApiSolution\EduSync Back\EduSyncApi\obj\Debug\net8.0\EduSyncApi.sourcelink.json
