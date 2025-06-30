@@ -100,7 +100,8 @@ builder.Services.AddCors(options =>
 {
     options.AddPolicy("AllowFrontend", cors =>
     {
-        cors.WithOrigins("http://localhost:3000")
+        cors.WithOrigins("http://localhost:3000",
+            "https://mango-beach-0988a3d00.1.azurestaticapps.net")
                .AllowAnyHeader()
                .AllowAnyMethod()
                .AllowCredentials();

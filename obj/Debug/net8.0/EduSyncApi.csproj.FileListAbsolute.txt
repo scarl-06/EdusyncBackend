@@ -569,3 +569,4 @@ C:\assigment\EduSyncApiSolution\EduSync Back\EduSyncApi\obj\Debug\net8.0\ref\Edu
 C:\assigment\EduSyncApiSolution\EduSync Back\EduSyncApi\bin\Debug\net8.0\Azure.Storage.Blobs.dll
 C:\assigment\EduSyncApiSolution\EduSync Back\EduSyncApi\bin\Debug\net8.0\Azure.Storage.Common.dll
 C:\assigment\EduSyncApiSolution\EduSync Back\EduSyncApi\bin\Debug\net8.0\System.IO.Hashing.dll
+C:\assigment\EduSyncApiSolution\EduSync Back\EduSyncApi\obj\Debug\net8.0\EduSyncApi.sourcelink.json
